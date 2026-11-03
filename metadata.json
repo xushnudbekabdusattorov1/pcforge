@@ -1,0 +1,6 @@
+{
+  "name": "PC Forge - Custom PC Builder & Gaming Store",
+  "description": "Orzuingizdagi kompyuterni bosqichma-bosqich yig'ing, tayyor gaming PC'lar, noutbuklar va butlovchi qismlarni xarid qiling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
